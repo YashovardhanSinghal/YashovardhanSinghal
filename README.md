@@ -1,7 +1,7 @@
 ## 🌟 About me
 
 
-[GitHub Header](https://github.com/YashovardhanSinghal/YashovardhanSinghal/assets/119069053/369173c3-42a5-47c9-b37f-cad9deb2ac1c)
+I am Third year Computer Science Undergrad at IIIT Delhi
 
 
 ## 💻 Tech Stack:
