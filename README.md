@@ -28,6 +28,6 @@ Machine Learning | Competitive programming
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YashovardhanSinghal&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YashovardhanSinghal&theme=radical)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashovardhanSinghal&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
