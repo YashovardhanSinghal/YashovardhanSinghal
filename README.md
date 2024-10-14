@@ -22,9 +22,7 @@ Machine Learning | Competitive programming
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashovardhanSinghal&show_icons=true&locale=en" alt="YashovardhanSinghal" />
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashovardhanSinghal&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashovardhanSinghal&layout=compact&theme=radical)
 
